@@ -3,7 +3,7 @@ package com.dolphin.jdbc_demo;
 
 import java.sql.*;
 
-public class helloworld {
+public class jdbc {
     // JDBC driver name and database URL
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     static final String DB_URL = "jdbc:mysql://60.205.231.165:3306/test?useSSL=false";
